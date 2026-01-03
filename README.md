@@ -18,6 +18,7 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=qrspy)](https://github.com/clintcarr/qrspy)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=idjoopal&repo=DNA_Android)](https://github.com/dna-edge/DNA_Android)
  -->
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=idjoopal)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=idjoopal&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idjoopal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
